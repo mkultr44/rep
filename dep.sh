@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo dnf install gcc gcc-c++ doxygen openssl-devel systemd-devel libjpeg-turbo-devel glib2-devel gstreamer1-devel luajit-devel freetype-devel fontconfig-devel fribidi-devel xorg-x11-server-devel libXrender-devel giflib-devel libtiff-devel poppler-devel poppler-cpp-devel libspectre-devel LibRaw-devel librsvg2-devel libmount-devel dbus-devel pulseaudio-libs-devel libsndfile-devel libXcursor-devel libXcomposite-devel libXinerama-devel libXrandr-devel libXtst-devel libXScrnSaver-devel bullet-devel gstreamer1-plugins-base-devel
